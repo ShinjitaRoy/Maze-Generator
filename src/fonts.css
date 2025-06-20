@@ -1,0 +1,7 @@
+/* src/fonts.css */
+@font-face {
+  font-family: 'eras-itc-medium';
+  src: local('eras-itc-medium'), url('./components/fonts/eras-itc-medium.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}

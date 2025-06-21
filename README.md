@@ -2,7 +2,7 @@
 
 MazeQuest is a visually rich, accessible, and responsive React application for generating and solving mazes with animation, color themes, and interactive controls.
 
-![MazeQuest Screenshot](./screenshot.png)
+https://www.loom.com/share/8c027ff75db74bb9829ba331afe65642?sid=0ef016a3-e46a-46b5-8c5d-f8ca5fb0b805
 
 ---
 
